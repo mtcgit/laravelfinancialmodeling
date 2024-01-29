@@ -9,7 +9,7 @@
 
 ## How to Install and run for testing
 
-- Restore the Database in PHPMyAdmin (larevel.sql inside this files)
+- Restore the Database in PHPMyAdmin (laravel.sql inside this files)
 - npm run build
 - php artisan serve
 
